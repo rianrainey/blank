@@ -1,0 +1,31 @@
+{
+  "name": "blank",
+  "main": "blank.js",
+  "version": "0.0.1",
+  "authors": [
+    "Rian Rainey <hello@rian.me>"
+  ],
+  "description": "Make all external links open in a new browser.",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "keywords": [
+    "external",
+    "target",
+    "blank",
+    "open",
+    "window",
+    "a",
+    "link",
+    "href"
+  ],
+  "license": "MIT",
+  "homepage": "rian.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
